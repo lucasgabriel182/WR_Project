@@ -8,4 +8,4 @@ Tecnologias ultilizadas - HTML, CSS, Python e Flask.
 
 API - OpenLayers - Link: https://openlayers.org/download/
 
-O mapa mostrará os pontos da ultima visualização do veículo, possuindo também um rastro para traçar o caminho do mesmo.
+O mapa mostrará os pontos da ultima visualização do veículo, possuindo também um rastro para traçar a rota feito pelo mesmo.
