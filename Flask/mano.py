@@ -11,7 +11,7 @@ from flask import Flask, render_template
 import folium
 import json
 
-app = Flask(__name__, template_folder='template')
+app = Flask(__name__, template_folder='template') #App é a nossa variavel
 
 # Aqui informamos a rota para que o código encontre os dados para gerar o mapa
 @app.route('/', methods=['GET'])
